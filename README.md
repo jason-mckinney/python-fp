@@ -3,5 +3,5 @@
 ## Setup
 Install fputils with pip:
 ```
-pip install fputils 
+pip install fputils-python 
 ```
